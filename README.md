@@ -1,5 +1,5 @@
-# Python-Data-Structures
-## Content for @dailydose.of.python 
+# dailydose.of.python
+## Content for [@dailydose.of.python](https://www.instagram.com/dailydose.of.python/)
 ### Data Structures
 <ul>
   <li>Dictionaries</li>
